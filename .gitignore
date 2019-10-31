@@ -1,0 +1,10 @@
+pages
+venv
+*.pdf
+*.csv
+*.xls
+*.xlsx
+.DS_*
+*.tmp
+*.old
+*.sav
